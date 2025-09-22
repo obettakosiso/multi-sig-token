@@ -1,4 +1,4 @@
-;; AXIOM COLLECTIVE GOVERNANCE TOKEN SMART CONTRACT
+;; COLLECTIVE GOVERNANCE TOKEN SMART CONTRACT
 ;;
 ;; A sophisticated multi-signature governed token system that enables decentralized
 ;; autonomous governance through weighted voting mechanisms, proposal orchestration,
